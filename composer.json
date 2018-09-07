@@ -1,0 +1,19 @@
+{
+    "name": "mamun/contact",
+    "description": "A package to contact with use",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Al-Mamun Sarkar",
+            "email": "almamun.csit@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mamun\\Contact\\": "src/"
+        }
+    }
+}
